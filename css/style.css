@@ -1,0 +1,13 @@
+body {
+  background-color: goldenrod;
+  font-size:20px;
+}
+
+
+h1 {
+font-size: 40px;
+color:red;
+font-family: arial
+text-align:center;
+text-shadow: -4px 3px 0 #3a50d9, -14px 7px 0 #0a0e27;
+}
