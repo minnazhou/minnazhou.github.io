@@ -1,0 +1,17 @@
+body{
+  font-size: 15px;
+  font-family: arial;
+}
+
+h1 {
+font-size: 60px;
+color:black;
+font-family: arial
+text-align: left;
+}
+
+p {
+font-family:arial;
+font-size: 15px;
+text-align: left;
+margin: 10px 50px 10px 0px;

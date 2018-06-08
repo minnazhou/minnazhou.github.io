@@ -1,0 +1,47 @@
+body {
+}
+
+.main img{
+  max-width: 100%;
+  padding: 18px;
+}
+
+.menu{
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  z-index: 4;
+  }
+
+.nav {
+  width: 0;
+  font-size: 30px;
+  height:180vh; /* Viewport hieght*/
+  position: fixed;
+  z-index: 3;
+  left: 0px;
+  top: 0px;
+  background-color: yellow;
+  overflow: hidden;
+}
+
+.nav.slide-in {
+  width: 25%;
+  transition: 0.2s;
+}
+
+.button {
+  display: block;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  font-family: arial;
+  font-size: 23px;
+}
+
+.show {
+ display:block;
+}
+
+.hide {
+  display: none;
+}

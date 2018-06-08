@@ -1,0 +1,94 @@
+body {
+  color: #fff;
+  font-size:100px;
+}
+
+.image1
+{
+width: 25vw;
+height:70vh;
+}
+
+.panel {
+  height:100vh;
+  width: 50vw;
+
+}
+
+.left {
+  background-color: PINK;
+  overflow: none;
+  font-size: 30px
+
+
+}
+
+.right {
+  background-color: PINK;
+  position:fixed;
+  font-style: oblique;
+  font-size: 50px;
+  right:0;
+  top:0;
+  overflow-y:scroll;
+}
+
+.large {
+  font-size:6vh;
+  font-family: arial;
+  padding:8px 16px;
+}
+
+.menu {
+   display: none;
+}
+
+.menu.m-show {
+  display: block;
+}
+
+.menu a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding:8px 16px;
+
+}
+
+body {
+  background-color: PINK;
+  color:#fff;
+}
+
+.pop {
+  width:40vw;
+  position: fixed;
+  visibility: hidden;
+}
+
+.pop img {
+  width: 100%;
+  padding:8px 16px;
+
+}
+
+
+.rollover {
+ color:grey;
+}
+
+.p-show {
+  top:40px;
+  left:40px;
+ visibility: visible;
+}
+
+.m-text {
+  font-family: arial;
+  padding-left: 16px;
+  line-height: 20px;
+}
+
+.m-image {
+
+}
